@@ -1,0 +1,9 @@
+{
+  "name": "gmxura-os",
+  "version": "4.0.0",
+  "private": true,
+  "description": "GMXURA OS - Sistema Pessoal com login seguro",
+  "scripts": {
+    "build": "echo 'static site - no build needed'"
+  }
+}

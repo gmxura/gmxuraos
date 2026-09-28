@@ -1,0 +1,23 @@
+{
+  "name": "GMXURA OS - Sistema Pessoal",
+  "short_name": "GMXURA OS",
+  "description": "Cursos, Trabalho e Segundo C\u00e9rebro",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0A0A0A",
+  "theme_color": "#7C3AED",
+  "icons": [
+    {
+      "src": "/public/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/public/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
